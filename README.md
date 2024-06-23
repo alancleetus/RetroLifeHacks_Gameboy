@@ -22,13 +22,13 @@ RetroLifeHacks_Gameboy is a retro-style Gameboy application that generates rando
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/alancleetus/lifehack_gameboy.git
+   git clone https://github.com/alancleetus/RetroLifeHacks_Gameboy.git
    ```
 2. Open `index.html` in your web browser to start the application.
 
 ## Project Site
 
-You can view the project online [here](http://alancleetus.github.io/lifehack_gameboy/).
+You can view the project online [here](http://alancleetus.github.io/RetroLifeHacks_Gameboy/).
 
 ## License
 
