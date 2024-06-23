@@ -5,7 +5,9 @@ Welcome to the RetroLifeHacks_Gameboy repository! This project was created as a 
 ## Project Description
 
 RetroLifeHacks_Gameboy is a retro-style Gameboy application that generates random life hacks. It is developed using HTML, CSS, and a bit of JavaScript to randomly select and display life hacks.
+
 ![Demo](https://github.com/alancleetus/RetroLifeHacks_Gameboy/blob/master/LifeHackBoy_demo.gif)
+
 ## Features
 
 - Retro Gameboy design **CREATED ENTIRELY IN CSS**
